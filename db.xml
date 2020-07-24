@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+  <users>
+    <name>Timofey</name>
+    <email>help@mamay.by</email>
+    <login>admin</login>
+    <password>123qwe</password>
+  </users>
+  <users>
+    <name>Иван</name>
+    <email>qwerty@mail.ru</email>
+    <login>iv</login>
+    <password>qwe</password>
+  </users>
+</db>
